@@ -16,7 +16,7 @@ The goal is to classify reviews as positive, negative, or neutral, transforming 
 - **Predictive Sentiment Analysis (LSTM)** → Implemented LSTM neural network with NLP preprocessing for advanced sequence-based sentiment prediction.
 
 ## Tools & Techniques-
-- **Datasets** → McDonald’s Reviews (Kaggle)[https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews], Amazon Fine Food Reviews (Kaggle)[https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data]
+- **Datasets** → McDonald’s Reviews [https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews], Amazon Fine Food Reviews [https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data]
 - **Rule-Based Tools** → TextBlob, VADER
 - **Machine Learning Libraries** → Scikit-learn, XGBoost
 - **Deep Learning Libraries** → TensorFlow, Keras
@@ -29,7 +29,3 @@ This repository showcases the end-to-end sentiment analysis process: from prepro
 ## Final Note-
 Thank you for taking the time to explore my work.
 I've done my best to make this project accurate, informative, and useful. I'm always learning, so if you have feedback or ideas, feel free to reach out! I'm open to suggestions, improvements, and feedback!
-1. Fork this repo
-2. Create your branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "Add feature"`
-4. Push and submit a Pull Request
