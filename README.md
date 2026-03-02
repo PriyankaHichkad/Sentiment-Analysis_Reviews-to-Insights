@@ -14,14 +14,17 @@ The goal is to classify reviews as positive, negative, or neutral, transforming 
 - **VADER Sentiment Analysis** → Amazon Fine Food Reviews (Kaggle), rule-based scoring and classification into sentiment categories.
 - **Predictive Sentiment Analysis (ML Models)** → Applied Random Forest, Logistic Regression, XGBoost, Naive Bayes, and SVC on VADER-processed dataset.
 - **Predictive Sentiment Analysis (LSTM)** → Implemented LSTM neural network with NLP preprocessing for advanced sequence-based sentiment prediction.
+- **Amazon Reviews End-to-End Analysis** → Full data science pipeline integrating NLP (VADER & BERT), SQL, dashboards, and Streamlit deployment.
 
 ## Tools & Techniques-
-- **Datasets** → McDonald’s Reviews [https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews], Amazon Fine Food Reviews [https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data]
+- **Datasets** → McDonald’s Reviews [https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews], Amazon Fine Food Reviews [https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews/data], Customer Reviews on Amazon Products[https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products]
 - **Rule-Based Tools** → TextBlob, VADER
 - **Machine Learning Libraries** → Scikit-learn, XGBoost
 - **Deep Learning Libraries** → TensorFlow, Keras
+- **Database** → MySQL
 - **NLP Techniques** → Tokenization, Stopword Removal, Lemmatization, TF-IDF, Word Embeddings
-- **Visualization** → Matplotlib, Seaborn
+- **Visualization** → Matplotlib, Seaborn, Tableau
+- **Deployment** → Streamlit
 
 ## Outcomes-
 This repository showcases the end-to-end sentiment analysis process: from preprocessing raw text, applying diverse algorithms, and evaluating performance, to extracting actionable insights for decision-making. It emphasizes both technical proficiency and practical applicability in NLP-driven sentiment modeling.
