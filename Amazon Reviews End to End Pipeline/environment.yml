@@ -1,0 +1,21 @@
+name: csdash
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - notebook
+  - sqlalchemy
+  - vaderSentiment
+  - spacy
+  - pip
+  - pip:
+    - streamlit
+    - textblob
+    - transformers
