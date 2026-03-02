@@ -1,0 +1,2 @@
+-- Data will be inserted using Python (pandas.to_sql)
+-- Keeping this file for project completeness
