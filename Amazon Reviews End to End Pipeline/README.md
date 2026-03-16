@@ -1,6 +1,11 @@
-# 🛒 Amazon Reviews End-to-End Data Science Project
+---
+TITLE: Amazon Reviews End-to-End Pipeline
+AUTHOR: Priyanka Rajeev Hichkad
+---
 
-## 📌 Project Overview
+# Amazon Reviews End-to-End Pipeline
+
+## Project Overview
 
 This project is a **complete end-to-end data science pipeline** built using real-world Amazon product reviews data. It demonstrates skills across **data cleaning, exploratory data analysis (EDA), natural language processing (NLP), machine learning, SQL, data visualization, and deployment**.
 
@@ -8,7 +13,7 @@ The goal is to extract meaningful insights from customer reviews, understand sen
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Clean and unify raw Amazon review datasets
 * Perform structured EDA on ratings, brands, and categories
@@ -20,7 +25,7 @@ The goal is to extract meaningful insights from customer reviews, understand sen
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```
 Amazon-Reviews-Analysis/
@@ -68,7 +73,7 @@ Amazon-Reviews-Analysis/
 
 ---
 
-## 🔍 Dataset Description
+## Dataset Description
 
 * Source: **Datafiniti Amazon Consumer Reviews**
 * Size: ~50k+ reviews (after cleaning)
@@ -86,7 +91,7 @@ Amazon-Reviews-Analysis/
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+## Data Cleaning & Preprocessing
 
 * Merged multiple Amazon review CSVs
 * Standardized column names
@@ -97,7 +102,7 @@ Amazon-Reviews-Analysis/
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 * Rating distribution analysis
 * Brand-wise and category-wise review trends
@@ -107,7 +112,7 @@ Amazon-Reviews-Analysis/
 
 ---
 
-## 🧠 NLP & Sentiment Analysis
+## NLP & Sentiment Analysis
 
 ### Models Used
 
@@ -129,7 +134,7 @@ Amazon-Reviews-Analysis/
 
 ---
 
-## 🗄️ SQL Integration (MySQL)
+## SQL Integration (MySQL)
 
 * Designed relational schema
 * Inserted cleaned data into MySQL
@@ -149,7 +154,7 @@ SQL Files:
 
 ---
 
-## 📈 Tableau Dashboard
+## Tableau Dashboard
 
 An interactive Tableau dashboard showcasing:
 
@@ -158,11 +163,11 @@ An interactive Tableau dashboard showcasing:
 * Category performance
 * Filters for brand, rating, and sentiment
 
-📌 Designed for **non-technical stakeholders**
+Designed for **non-technical stakeholders**
 
 ---
 
-## 🚀 Streamlit Web App
+## Streamlit Web App
 
 A fully interactive web application featuring:
 
@@ -179,7 +184,7 @@ streamlit run app.py
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Languages:** Python, SQL
 * **Libraries:** Pandas, NumPy, scikit-learn, NLTK, Transformers
@@ -189,7 +194,7 @@ streamlit run app.py
 
 ---
 
-## 📌 Key Learnings
+## Key Learnings
 
 * Handling large, messy real-world datasets
 * Practical NLP using both classical and transformer models
@@ -199,20 +204,3 @@ streamlit run app.py
 
 ---
 
-## 👩‍💻 Author
-
-**Spandita Srivastava**
-IDD – Engineering Physics, IIT (BHU) Varanasi
-Aspiring Data Scientist / ML Engineer
-
----
-
-## ⭐ Acknowledgements
-
-* Datafiniti for the dataset
-* HuggingFace for BERT models
-* Open-source Python community
-
----
-
-If you found this project useful or insightful, feel free to ⭐ the repository!
